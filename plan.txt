@@ -1,0 +1,12 @@
+
+1. adding fan favourite poke song
+
+2. creating more better and Poke Iterface
+
+3. IMPORTANT: creating 3 points of battel. so if the user achieved 3 points first then he will be come the next pokemon master
+
+4. replacing the computer word name with name pokemon master so user oppenet will be current pokemon master
+
+5. if user defeat the current pokemon master (then computer). the uer shall be declared as new pokemon master.
+
+6. if user fails to do so then the current pokemon master (then computer) shall continue his status as a pokemon master
