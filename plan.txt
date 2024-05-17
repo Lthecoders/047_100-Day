@@ -1,5 +1,8 @@
 
-1. adding fan favourite poke song
+1. adding fan favourite poke song (try intro song different and match song different and if at finally if user had becmoe the pokemon master then play the iconic fan favourite song pokemon it's you and me 
+i know it's my destiny you tech me and i tech you pokemon geter..... that song
+)
+if user failed to win then no song.
 
 2. creating more better and Poke Iterface
 
