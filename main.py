@@ -160,10 +160,10 @@ def round_system():
           "\n\n    ----------> the player who get's 3 points first, shall be the new pokemon Master 🤯👍👾",
           normal)
       print(
-        f"\nPOINTS BOARD---------->{yellow} {gaming_name}'s Points tracker {normal}🧐🥸 ---> {user_score}"
+          f"\nPOINTS BOARD---------->{yellow} {gaming_name}'s Points tracker {normal}🧐🥸 ---> {user_score}"
       )
       print(
-        f"\nPOINTS BOARD---------->{blue} comp's Points tracker 🧐🥸 {normal}---> {comp_score}\n\n"
+          f"\nPOINTS BOARD---------->{blue} comp's Points tracker 🧐🥸 {normal}---> {comp_score}\n\n"
       )
     print(
         f'\n\n{purple}-> Round {rounds} starts All the best, become a pokemon Master. {normal}👍👾👍'
